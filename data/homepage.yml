@@ -1,8 +1,8 @@
 # showcase
 showcase:
   enable: true
-  title: "Hello, I’m Andreas."
-  subtitle: "Front-End Developer"
+  title: "Hello, I’m JT."
+  subtitle: "Data Scientist"
   description: "I work at <a target='_blank' href='https://radity.com/'>Radity</a>, a software development company in Switzerland. And I am a Raditian. You get the idea where theme name comes from. Keep cool, stay in touch. You can download this theme from <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>."
   image:
     x: "img/showcase/showcase.png"
@@ -73,9 +73,9 @@ education:
   enable: true
   title: "Education"
   items:
-    - university: "University of Waterloo"
-      year: "2012-2017"
-      degree: "Bachelor of Applied Science (BASc), Electrical Engineering"
+    - university: "University of Columbia"
+      year: "2008-2010"
+      degree: "Master of Arts in International Affairs"
 
     - university: "Sir John A Macdonald CI"
       year: "2009-2012"

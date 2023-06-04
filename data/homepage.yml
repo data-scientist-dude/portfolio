@@ -73,40 +73,44 @@ education:
   enable: true
   title: "Education"
   items:
-    - university: "University of Columbia"
+    - university: "The Ohio State University"
+      year: "1994-1997"
+      degree: "Bachelor of Science in Business Administration"
+      
+    - university: "Columbia University"
       year: "2008-2010"
       degree: "Master of Arts in International Affairs"
 
-    - university: "Sir John A Macdonald CI"
-      year: "2009-2012"
-      degree: "High School Diploma, Sciences, Math, Computer & Business Studies"
+    - university: "University of Maryland"
+      year: "2018-2019"
+      degree: "Master of Sciences in Information Systems"
 
 # experience
 experience:
   enable: true
   title: "Experience"
-  description: "Over 15+ years of experience working with companies from all over the world. I design & develop digital products to help businesses and improve people's lives."
+  description: "Over 5+ years of experience working with data and data models. My teaching and coaching philosophy is that data is for everyone and that all can build the skills to use it."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
-    URL: "https://www.linkedin.com/company/radity/"
+    URL: "https://www.linkedin.com/in/john-t-miller/"
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
     URL: "#"
 
   items:
-    - title: "Sr. Front-End Developer"
-      company: "Radity"
-      duration: "Feb 2011 - Sep 2019"
+    - title: "Assistant Professor"
+      company: "United States Army"
+      duration: "May 2015 - Aug 2018"
 
-    - title: "Sr. Front-End Developer"
-      company: "Textic"
-      duration: "Apr 2010 - Jan 2011"
+    - title: "Plans Assessment Analyst"
+      company: "Booz Allen Hamilton"
+      duration: "Jul 2019 - Apr 2022"
 
-    - title: "Jr. Front-End Developer"
-      company: "Cyberse"
-      duration: "Jun 2009 - Mar 2010"
+    - title: "Value Assessment Analyst"
+      company: "United States Cyber Command"
+      duration: "Apr 2022 - present"
 
 # Client & Work
 client_and_work:
